@@ -4,7 +4,7 @@ Meu Portfolio de Projetos Data Science
 
 <p align="center"> 
   <img src="banner.png" > 
-</p>LUIS GUSTAVO 
+</p> 
 
 # LUIS GUSTAVO EAGLE
 <sub>*Lead Data Scientist* at Space Operations Center</sub>
